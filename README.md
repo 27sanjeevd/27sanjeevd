@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating Data Pipelines for the Smith Investment Fund<br>🌱 I’m currently learning about building full-stack apps with React and Flask<br>💬 Ask me about computational finance<br>⚡ Fun fact: One of my eyes is nearsighted, and the other has 20/20 vision
+🔭 I’m currently working on creating Data Pipelines for the Smith Investment Fund<br>🌱 I’m currently learning about building full-stack apps with React and Flask<br>💬 Ask me about computational finance
 
 
 ## 🌐 Socials:
