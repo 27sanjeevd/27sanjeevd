@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating Data Pipelines for the Smith Investment Fund<br>🌱 I’m currently learning about building full-stack apps with React and Flask<br>💬 Ask me about computational finance
+🔭 I’m currently working on aggregating alternative data sources into a publicly available API<br>🌱 I’m currently learning about building full-stack apps with React and Flask<br>💬 Ask me about computational finance
 
 
 ## 🌐 Socials:
