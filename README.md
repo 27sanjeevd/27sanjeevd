@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on aggregating alternative data sources into a publicly available API<br>🌱 I’m currently learning about building full-stack apps with React and Flask<br>💬 Ask me about computational finance
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/VoiD#0682) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/25sanjeevd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeevdevarajan) 
 
